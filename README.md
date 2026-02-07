@@ -11,4 +11,4 @@ I create guides, tutorials, and content that humans don't mind reading.
 
 ## Contact
 - Email: sinemwrites@gmail.com  
-- LinkedIn: [https://linkedin.com/in/sinemyapar](#)  
+- LinkedIn: [https://linkedin.com/in/sinemwrites](#)  

@@ -17,7 +17,7 @@ I create guides, tutorials, and content that humans don't mind reading.
 
 ---
 
-## 📬 Contact / Links
+### 📬 Contact / Links
 - **Email:** sinemwrites@example.com  
 - **LinkedIn:** [linkedin.com/in/sinemwrites](#)  
 - **Portfolio PDF:** [Download here](#)
